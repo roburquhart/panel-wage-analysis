@@ -1,0 +1,3 @@
+# panel-wage-analysis
+Analysis of wage data for youth from four panels of the NIDS CRAM survey
+This notebook explores data regarding households and livelihoods and the impact of the coronavirus. NIDS (National Income Dynamics Study) is a nationally (South African) representative panel survey following the trajectories of people over a period of time. At the height of the coronavirus, the database was purposed to collect particular information about the impact of the coronavirus (CRAM - Coronavirus Rapid Mobile Survey.) In particular I have used the data to understand income earned by youth, with a view to understanding how youth earnings may have been impacted by South Africa's lockdown responses to the virus.
